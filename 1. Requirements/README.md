@@ -8,6 +8,7 @@ The main objectives of the project are:
 * Output the same result if the entered choice meets the requirement.
 
 ## SWOT Analysis
+![Swot]5. Images/Swot.jpg
 
 ## ***4 W's and 1 H***
 ## Who
