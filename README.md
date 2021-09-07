@@ -1,1 +1,6 @@
-# stepin- Scientific Calculator
+#  Scientific Calculator
+
+## Folder Structure
+Folder   | Description
+---------|-----------
+1. Requirements|
