@@ -8,7 +8,7 @@ The main objectives of the project are:
 * Output the same result if the entered choice meets the requirement.
 
 ## SWOT Analysis
-![Swot]5. Images/Swot.jpg
+![Swot](https://github.com/Shwetha-H/Stepin-Scientific-Calculator/blob/8511ab0ba9f79ff5e8ee53e530a3291c61a40eb9/5.%20Images/Swot.jpg)
 
 ## ***4 W's and 1 H***
 ## Who
