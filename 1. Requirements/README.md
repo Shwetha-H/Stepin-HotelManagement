@@ -11,16 +11,34 @@ The main objectives of the project are:
 
 ## ***4 W's and 1 H***
 ## Who
-- 
+- Can be used as reference for programmers trying to develop a  higher version for calculation.
 ## What
-This project is concerned about solving the Rubik's cube by using layer by layer method.
+- This project is concerned about solving a mathematical operation.
 ## When 
 - This project is used widely in any situation where quick access to certain mathematical functions is needed like trignometric functions.
 ## Why
-As this project uses beginner's algorithm it can be easy to teach beginners who does not know how to solve it.
+- As this project uses simple functions, it is easy for begineers to develop a programm.
 ## How
 - Implemented using simple switch cases and other functionalities of C.
+- This Project is implemented in C language for the Both Windows & Linux OS
 - Project is developed using a multi file approach.
+
+
+Basic requirements that are very essential are:
+* gcc compiler with a good system.
+* Any of the two linux/windows.
+
+## High Level Requirements:
+|ID|Description|Category|Status|
+|-------|-------|-------|-------|
+|H_01|
+
+
+## Low Level Requirements:
+|ID|Description|Category|Status|
+|-------|-------|-------|-------|
+
+
 
 
 
