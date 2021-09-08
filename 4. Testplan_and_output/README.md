@@ -15,7 +15,8 @@
 |  H_09      |               square                                         |  4| 16| 16 |Requirement based | Pass   
            
 
-## Low level test plan 
+
+## High level test plan 
 
 | **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |**TEst case**|  
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|-------------|
