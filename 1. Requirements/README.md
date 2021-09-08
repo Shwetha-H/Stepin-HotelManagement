@@ -30,14 +30,28 @@ Basic requirements that are very essential are:
 * Any of the two linux/windows.
 
 ## High Level Requirements:
-|ID|Description|Category|Status|
-|-------|-------|-------|-------|
-|H_01|
+|ID|Description|Status|
+|-------|-------|------|
+|H_01|User shall be able to view the number of operations available| Implemented|
+|H_02|Selection of choice| Implemented|
+|H_03|Arithmetic operations| Implemented|
+|H_04|Trignometric operations| Not Implemented|
+H_05| Exit the program| Implemented
 
 
 ## Low Level Requirements:
-|ID|Description|Category|Status|
+|ID|Description|HLR-ID|Status|
 |-------|-------|-------|-------|
+|L_01|List of operations displayed| H_01|Implemented|
+|L_02| Input from user|H_02| Implemented|
+|L_03| Perform addition for 1|H_03|Implemented
+|L_04| Perform subtraction for 2|H_03|Implemented
+|L_05| Perform multiplication for 3|H_03|Implemented
+|L_06| Perform division for 4|H_03|Implemented
+|L_07| Perform modulus for 5|H_03|Implemented
+|L_08| Perform square for 6|H_03|Implemented
+|L_09| Perform cos |H_04|Not Implemented
+|L_10| Exit the program for 0|H_05| Implemented
 
 
 
