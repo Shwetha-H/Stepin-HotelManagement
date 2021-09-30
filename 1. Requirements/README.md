@@ -51,7 +51,7 @@ H_05| Exit the program| Implemented
 |L_07| Perform modulus for 5|H_03|Implemented
 |L_08| Perform square for 6|H_03|Implemented
 |L_09| Perform cos |H_04|Not Implemented
-|L_10| Exit the program for 0|H_05| Implemented
+|L_10| Exit the program for 0|H_05| Not Implemented
 
 
 
